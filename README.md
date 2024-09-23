@@ -22,6 +22,7 @@ Gestionale Palestra è un'applicazione per macOS progettata per semplificare la 
 1. Scarica il file `.dmg`.
 2. Apri il file `.dmg` e trascina l'applicazione nella cartella `Applicazioni`.
 3. Esegui l'applicazione dalla cartella `Applicazioni`.
+4. Autorizzare in Privacy e sicurezza da impostazioni di sistema.
 
 ## Utilizzo
 
